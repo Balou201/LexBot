@@ -1,1 +1,1 @@
-python ton_script.py
+python Bot.py
